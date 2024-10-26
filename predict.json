@@ -1,0 +1,8 @@
+{
+    "sender_wallet": "e6753392ee2f8013a6dc444f16d18cc292229affb2a978db6587421d2f54519e",
+    "recipient_wallet": "bd965b6e2701b472bfdac4cfb38c50f23ea3f23d3d50bd1b562a9b7ca224e1c2",
+    "timestamp": 1634234242,
+    "transaction_type": "transfer",
+    "amount": 1000.0,
+    "gas_fee": 0.001
+}
